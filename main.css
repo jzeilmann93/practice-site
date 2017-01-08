@@ -1,0 +1,82 @@
+html { 
+  background: url(computer.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    font-size:16px;
+}
+.mainContainer {
+	margin: 2.5%;
+}
+
+hgroup {
+    position: fixed;
+    top: 50%;
+    left: 30%;
+    margin-top: -50px;
+    margin-left: -150px;
+    font-family: monospace;
+    color: white;
+}
+
+header {
+    overflow: hidden;
+    background-color: bl
+}
+h1 {
+    font-size: 4.4em;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 2.5em;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul a {
+    display: inline-block;
+    float:left;
+    font-family: monospace;
+    font-size: 3.25em;
+    margin: 0px;
+    padding: 2% 0 0 0;
+    color: white;
+    
+}
+
+nav li {
+    display: inline-block;
+    margin: 0px 0px 0px 25px;
+    
+}
+
+nav li a {
+    font-family: monospace;
+    font-size: 3.25em;
+    color: white;
+    
+}
+
+.para {
+    display:block;
+    color: white;
+    background: rgba(0,0,0,0.3);
+    padding: 1.5%;
+    width: 70%;
+    font-size: 1.2em;
+}
+
+footer {
+    position: absolute;
+    left: 35%;
+    bottom: 2%;
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+}
